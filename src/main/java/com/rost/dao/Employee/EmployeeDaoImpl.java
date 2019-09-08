@@ -1,6 +1,6 @@
-package com.rost.Dao.Employee;
+package com.rost.dao.Employee;
 
-import com.rost.Dao.BaseDaoImpl;
+import com.rost.dao.BaseDaoImpl;
 import com.rost.entity.Employee;
 import com.rost.entity.Employee_;
 import com.rost.util.ConnectionManager;

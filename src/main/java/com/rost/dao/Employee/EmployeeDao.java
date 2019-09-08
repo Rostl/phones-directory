@@ -1,6 +1,6 @@
-package com.rost.Dao.Employee;
+package com.rost.dao.Employee;
 
-import com.rost.Dao.BaseDao;
+import com.rost.dao.BaseDao;
 import com.rost.entity.Employee;
 
 import java.util.List;

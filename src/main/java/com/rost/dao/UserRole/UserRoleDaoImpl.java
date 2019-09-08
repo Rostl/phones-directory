@@ -1,6 +1,6 @@
-package com.rost.Dao.UserRole;
+package com.rost.dao.UserRole;
 
-import com.rost.Dao.BaseDaoImpl;
+import com.rost.dao.BaseDaoImpl;
 import com.rost.entity.Role;
 import com.rost.entity.UserRole;
 

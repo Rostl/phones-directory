@@ -1,10 +1,9 @@
-package com.rost.Dao;
+package com.rost.dao;
 
 import com.rost.entity.BaseEntity;
 import com.rost.util.ConnectionManager;
 import lombok.Cleanup;
 import org.hibernate.Session;
-import org.hibernate.SessionFactory;
 
 import javax.persistence.criteria.CriteriaBuilder;
 import javax.persistence.criteria.CriteriaQuery;

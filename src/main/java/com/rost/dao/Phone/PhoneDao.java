@@ -1,6 +1,6 @@
-package com.rost.Dao.Phone;
+package com.rost.dao.Phone;
 
-import com.rost.Dao.BaseDao;
+import com.rost.dao.BaseDao;
 import com.rost.entity.Phone;
 
 public interface PhoneDao extends BaseDao<Long, Phone> {

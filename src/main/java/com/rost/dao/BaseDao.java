@@ -1,4 +1,4 @@
-package com.rost.Dao;
+package com.rost.dao;
 
 import com.rost.entity.BaseEntity;
 

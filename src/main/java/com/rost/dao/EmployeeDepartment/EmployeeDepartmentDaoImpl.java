@@ -1,6 +1,6 @@
-package com.rost.Dao.EmployeeDepartment;
+package com.rost.dao.EmployeeDepartment;
 
-import com.rost.Dao.BaseDaoImpl;
+import com.rost.dao.BaseDaoImpl;
 import com.rost.entity.EmployeeDepartment;
 
 public class EmployeeDepartmentDaoImpl extends BaseDaoImpl<Long, EmployeeDepartment> implements EmployeeDepartmentDao {
